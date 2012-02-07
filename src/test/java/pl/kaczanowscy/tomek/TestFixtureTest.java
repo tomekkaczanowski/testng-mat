@@ -5,13 +5,11 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-import static org.testng.Assert.*;
-
 /**
- * Sample code for "Developers test: From beginner to master" book.
+ * Sample code for Methods And Tools article about TestNG.
  * Tomasz Kaczanowski
  * http://kaczanowscy.pl/tomek
- * 2/7/12, 5:37 PM
+ * 2/7/12, 5:25 PM
  */
 @Test
 public class TestFixtureTest {

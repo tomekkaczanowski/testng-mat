@@ -1,10 +1,10 @@
 package pl.kaczanowscy.tomek;
 
 /**
- * Sample code for "Developers test: From beginner to master" book.
+ * Sample code for Methods And Tools article about TestNG.
  * Tomasz Kaczanowski
  * http://kaczanowscy.pl/tomek
- * 2/7/12, 5:38 PM
+ * 2/7/12, 5:25 PM
  */
 public class Server {
     public void start() {
