@@ -1,0 +1,8 @@
+== TestNG Introduction
+
+Code examples for my article about TestNG for Methods And Tools online magazine http://www.methodsandtools.com/.
+
+== Usage
+Run it with
+
+  mvn clean install 
